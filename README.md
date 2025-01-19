@@ -23,7 +23,6 @@ Clone the repository:
 bash
 Copiar
 Editar
-git clone https://github.com/junniordf61/landing-page.git
 Open the index.html file in your browser to view the page.
 Customize the repository links in the <div class="repos"> section of the code.
 Next Steps
@@ -61,7 +60,6 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/junniordf61/landing-page.git
 Abra o arquivo index.html no navegador para visualizar a página.
 Personalize os links de repositórios dentro da seção <div class="repos"> no código.
 Próximos Passos
@@ -70,6 +68,8 @@ Incorporar JavaScript para implementar funcionalidades dinâmicas, como animaç�
 Melhorar o design responsivo com um layout ainda mais adaptável.
 Licença
 Este projeto é de código aberto e está disponível sob a licença MIT. Sinta-se à vontade para utilizá-lo e contribuir!
+
+Access to the project: https://junniordf61.github.io/Lading-Page/
 
 
 
